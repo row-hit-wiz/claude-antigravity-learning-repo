@@ -1,0 +1,13 @@
+{
+  "name": "task-api-sandbox",
+  "version": "1.0.0",
+  "description": "Sample codebase for learning Claude Code in Antigravity",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
